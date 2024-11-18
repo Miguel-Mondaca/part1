@@ -5,6 +5,6 @@ In this part, we will work with the React library and explore key JavaScript fea
 
 The solutions are organized in the following folders:
 
-- **Courseinfo**: Contains the final solution for exercises 1.3 → 1.5.
-- **Unicafe**: Contains the final solution for exercises 1.6 → 1.11.
-- **Anecdotes**: Contains the final solution for exercises 1.12 → 1.14.
+- **courseinfo**: Contains the final solution for exercises 1.3 → 1.5.
+- **unicafe**: Contains the final solution for exercises 1.6 → 1.11.
+- **anecdotes**: Contains the final solution for exercises 1.12 → 1.14.
